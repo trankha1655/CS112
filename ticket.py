@@ -10,7 +10,7 @@ def rand():
 
 # init n
 n= rd.randint(0,10000) +1000
-n=5
+
 # init thời gian mua vé của n người
 buy_time=[]
 
@@ -20,7 +20,7 @@ temp2= []  #--------------2 vé
 temp3= []  #--------------3 vé
 
 for i in range(n):
-    temp.append(rd.randint(1,10))
+    temp.append(rd.randint(1,100000))
     temp2.append(round(temp[-1] * 2 * rand()))
     temp3.append(round(temp[-1] * 3 * rand()))
 

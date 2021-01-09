@@ -1,0 +1,410 @@
+         1000001 function calls in 1.095 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.850    0.850    1.095    1.095 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+   999999    0.244    0.000    0.244    0.000 {built-in method builtins.min}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         2225002 function calls in 2.421 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        2    1.887    0.944    2.421    1.211 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+  2224998    0.534    0.000    0.534    0.000 {built-in method builtins.min}
+        2    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         3675003 function calls in 4.039 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3    3.159    1.053    4.039    1.346 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+  3674997    0.880    0.000    0.880    0.000 {built-in method builtins.min}
+        3    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         5350004 function calls in 5.913 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        4    4.633    1.158    5.913    1.478 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+  5349996    1.281    0.000    1.281    0.000 {built-in method builtins.min}
+        4    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         7250005 function calls in 7.993 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        5    6.264    1.253    7.993    1.599 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+  7249995    1.729    0.000    1.729    0.000 {built-in method builtins.min}
+        5    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         9375006 function calls in 10.386 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        6    8.137    1.356   10.386    1.731 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+  9374994    2.249    0.000    2.249    0.000 {built-in method builtins.min}
+        6    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         11725007 function calls in 12.939 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        7   10.135    1.448   12.939    1.848 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+ 11724993    2.804    0.000    2.804    0.000 {built-in method builtins.min}
+        7    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         14300008 function calls in 15.722 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        8   12.313    1.539   15.722    1.965 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+ 14299992    3.409    0.000    3.409    0.000 {built-in method builtins.min}
+        8    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         17100009 function calls in 18.749 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        9   14.686    1.632   18.749    2.083 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+ 17099991    4.063    0.000    4.063    0.000 {built-in method builtins.min}
+        9    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         20125010 function calls in 22.022 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10   17.252    1.725   22.022    2.202 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+ 20124990    4.770    0.000    4.770    0.000 {built-in method builtins.min}
+       10    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         23375011 function calls in 25.550 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       11   20.014    1.819   25.550    2.323 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+ 23374989    5.536    0.000    5.536    0.000 {built-in method builtins.min}
+       11    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         26850012 function calls in 29.314 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       12   22.963    1.914   29.314    2.443 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+ 26849988    6.351    0.000    6.351    0.000 {built-in method builtins.min}
+       12    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         30550013 function calls in 33.321 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       13   26.102    2.008   33.321    2.563 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+ 30549987    7.220    0.000    7.220    0.000 {built-in method builtins.min}
+       13    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         34475014 function calls in 37.636 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       14   29.466    2.105   37.636    2.688 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+ 34474986    8.169    0.000    8.169    0.000 {built-in method builtins.min}
+       14    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         38625015 function calls in 42.226 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       15   33.055    2.204   42.226    2.815 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+ 38624985    9.171    0.000    9.171    0.000 {built-in method builtins.min}
+       15    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         43000016 function calls in 46.996 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       16   36.779    2.299   46.996    2.937 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+ 42999984   10.218    0.000   10.218    0.000 {built-in method builtins.min}
+       16    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         47600017 function calls in 52.034 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       17   40.723    2.395   52.034    3.061 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+ 47599983   11.311    0.000   11.311    0.000 {built-in method builtins.min}
+       17    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         52425018 function calls in 57.257 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       18   44.815    2.490   57.257    3.181 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+ 52424982   12.441    0.000   12.441    0.000 {built-in method builtins.min}
+       18    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         57475019 function calls in 62.761 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       19   49.119    2.585   62.761    3.303 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+ 57474981   13.643    0.000   13.643    0.000 {built-in method builtins.min}
+       19    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         62750020 function calls in 68.546 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       20   53.636    2.682   68.546    3.427 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+ 62749980   14.910    0.000   14.910    0.000 {built-in method builtins.min}
+       20    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         68250021 function calls in 74.550 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       21   58.331    2.778   74.550    3.550 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+ 68249979   16.219    0.000   16.219    0.000 {built-in method builtins.min}
+       21    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         73975022 function calls in 80.769 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       22   63.203    2.873   80.769    3.671 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+ 73974978   17.567    0.000   17.567    0.000 {built-in method builtins.min}
+       22    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         79925023 function calls in 87.208 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       23   68.248    2.967   87.208    3.792 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+ 79924977   18.959    0.000   18.959    0.000 {built-in method builtins.min}
+       23    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         86100024 function calls in 93.911 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       24   73.505    3.063   93.911    3.913 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+ 86099976   20.406    0.000   20.406    0.000 {built-in method builtins.min}
+       24    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         92500025 function calls in 100.871 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       25   78.951    3.158  100.871    4.035 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+ 92499975   21.920    0.000   21.920    0.000 {built-in method builtins.min}
+       25    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         99125026 function calls in 108.157 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       26   84.650    3.256  108.157    4.160 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+ 99124974   23.507    0.000   23.507    0.000 {built-in method builtins.min}
+       26    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         105975027 function calls in 115.544 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       27   90.449    3.350  115.544    4.279 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+105974973   25.095    0.000   25.095    0.000 {built-in method builtins.min}
+       27    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         113050028 function calls in 123.199 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       28   96.451    3.445  123.199    4.400 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+113049972   26.748    0.000   26.748    0.000 {built-in method builtins.min}
+       28    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         120350029 function calls in 131.210 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       29  102.726    3.542  131.210    4.524 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+120349971   28.484    0.000   28.484    0.000 {built-in method builtins.min}
+       29    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         127875030 function calls in 139.277 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       30  109.066    3.636  139.277    4.643 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+127874970   30.211    0.000   30.211    0.000 {built-in method builtins.min}
+       30    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         135625031 function calls in 147.678 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       31  115.651    3.731  147.678    4.764 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+135624969   32.027    0.000   32.027    0.000 {built-in method builtins.min}
+       31    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         143600032 function calls in 156.314 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       32  122.426    3.826  156.314    4.885 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+143599968   33.888    0.000   33.888    0.000 {built-in method builtins.min}
+       32    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         151800033 function calls in 165.218 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       33  129.404    3.921  165.218    5.007 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+151799967   35.814    0.000   35.814    0.000 {built-in method builtins.min}
+       33    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         160225034 function calls in 174.423 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       34  136.618    4.018  174.423    5.130 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+160224966   37.804    0.000   37.804    0.000 {built-in method builtins.min}
+       34    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         168875035 function calls in 183.834 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       35  143.998    4.114  183.834    5.252 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+168874965   39.836    0.000   39.836    0.000 {built-in method builtins.min}
+       35    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         177750036 function calls in 193.545 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       36  151.607    4.211  193.545    5.376 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+177749964   41.938    0.000   41.938    0.000 {built-in method builtins.min}
+       36    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         186850037 function calls in 203.386 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       37  159.324    4.306  203.386    5.497 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+186849963   44.063    0.000   44.063    0.000 {built-in method builtins.min}
+       37    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         196175038 function calls in 213.522 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       38  167.263    4.402  213.522    5.619 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+196174962   46.259    0.000   46.259    0.000 {built-in method builtins.min}
+       38    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         205725039 function calls in 224.001 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       39  175.460    4.499  224.001    5.744 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+205724961   48.541    0.000   48.541    0.000 {built-in method builtins.min}
+       39    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         215500040 function calls in 234.640 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       40  183.800    4.595  234.640    5.866 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+215499960   50.841    0.000   50.841    0.000 {built-in method builtins.min}
+       40    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+         225500041 function calls in 245.538 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       41  192.334    4.691  245.538    5.989 C:/Users/phamt/PycharmProjects/22_12_2020/creat_data.py:35(dp)
+225499959   53.205    0.000   53.205    0.000 {built-in method builtins.min}
+       41    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
